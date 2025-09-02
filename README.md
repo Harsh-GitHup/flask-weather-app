@@ -61,7 +61,7 @@ Example:
 
 ```bash
 # Clone
-git clone <your-repo-url>
+git clone [https://github.com/Harsh-GitHup/flask-weather-app.git](https://github.com/Harsh-GitHup/flask-weather-app.git)
 cd weather-app
 
 # Create venv & install deps
@@ -97,5 +97,6 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in the browser.
 
 ## 📄 License
 
-[MIT](Licence).
+[MIT](Licence)
+
 
