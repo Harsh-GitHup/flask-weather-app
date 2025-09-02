@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# pytest & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# build/dist
+build/
+dist/
+*.egg
+*.manifest
+
+# --- Environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Databases & instance data ---
+*.sqlite3
+*.db
+instance/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+
+# --- Local config & secrets ---
+.env
+.env.local
+.env.*.local
