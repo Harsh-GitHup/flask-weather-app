@@ -97,4 +97,5 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in the browser.
 
 ## 📄 License
 
-Add a LICENSE file if needed (e.g., MIT).
+[MIT](Licence).
+
